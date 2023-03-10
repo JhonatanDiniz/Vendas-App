@@ -9,7 +9,10 @@ export const Menu: React.FC = () =>{
             </p>
             <ul className="menu-list">
                 <MenuItem href = "#" label = "Home"/>
-                <MenuItem href = "#" label = "Cadastro"/>
+                <MenuItem href = "#" label = "Produtos"/>
+                <MenuItem href = "#" label = "Clientes"/>
+                <MenuItem href = "#" label = "Vendas"/>
+                <MenuItem href = "#" label = "Sair"/>
             </ul>
         </aside>
     )
